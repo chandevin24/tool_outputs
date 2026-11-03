@@ -1,0 +1,10 @@
+# Python 3.12; versions used by the verified local workflow.
+arize-phoenix==20.26.1
+arize-phoenix-client==3.5.0
+arize-phoenix-evals==3.9.4
+arize-phoenix-otel==0.17.2
+openinference-instrumentation==0.1.72
+openinference-instrumentation-ollama==0.1.13
+opentelemetry-sdk==1.45.1
+ollama==0.6.3
+httpx==0.28.1

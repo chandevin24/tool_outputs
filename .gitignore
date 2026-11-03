@@ -1,0 +1,23 @@
+# Commit only reproduction instructions, frozen scenario inputs, and runnable code.
+# Reports, recorded results, traces, screenshots, environments, and caches stay local.
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/cases_scaled.json
+!/build_realistic_cases.py
+!/experiment_phoenix.py
+!/scripts/
+/scripts/*
+!/scripts/analyze_results.py
+!/scripts/export_phoenix_traces.py
+!/scripts/phoenix_evaluators.py
+!/scripts/phoenix_workflow.py
+!/scripts/reproduce_phoenix_workflow.sh
+!/analysis/
+/analysis/*
+!/analysis/position_sensitivity_case012/
+/analysis/position_sensitivity_case012/*
+!/analysis/position_sensitivity_case012/runner.py
+!/analysis/position_sensitivity_case012/analyze.py
+!/analysis/position_sensitivity_case012/evaluators.py
